@@ -1,0 +1,121 @@
+* {
+    font-family: 'Prompt', sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+    box-sizing: border-box;
+}
+.container {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+.avatar_image {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: block;
+}
+.header {
+    padding-top: 8px;
+    margin-bottom: 20px;
+    display: flex;           /* НОВЫЙ */
+    flex: 1;              /* НОВЫЙ */
+    align-items: center;     /*НОВЫЙ  */
+    justify-content: center; /*НОВЫЙ*/
+    
+    
+}
+.name_1 {
+    font-weight: 700;
+    font-size: 42px;
+    margin: 0;
+    padding: 0;
+}
+.name_4 {
+    font-size: 18px;
+}
+.header_text {
+    border-left: 1px solid #C6C6C6;
+    color: #424242;
+    margin-left: 25px;
+    padding-left: 25px;
+}
+a,
+a:hover,
+a:link,
+a:active,
+a:focus {
+    text-decoration: none;
+    color: #424242;
+}
+.society_image {
+    vertical-align: text-bottom;
+} 
+.contact>div {
+    margin-bottom: 7px;
+    letter-spacing: 2px;
+}
+.contact {
+    padding-bottom: 4px;
+    border-bottom: 2px solid #FCF64F;
+}
+.running {
+    padding: 15px 3px;
+}
+.name-h3 {
+    font-weight: 800;
+    font-size: 18px;
+    letter-spacing: 4px;
+    padding-bottom: 10px;
+}
+.running-text {
+    letter-spacing: 1px;
+    font-weight: 300;
+    text-align: justify;
+    padding-bottom: 25px;
+}
+.n-album {
+    font-weight: 600;
+    font-size: 16px;
+    letter-spacing: 2px;
+    color: #5B4100;
+    padding-bottom: 4px;
+}
+.discography {
+    border-top: 2px solid #FCF64F;
+    border-bottom: 2px solid #FCF64F;
+    margin-bottom: 23px;
+}
+.album:nth-last-child() {
+    margin-bottom: 13px;
+    
+}
+.profile_education {
+    display: flex;
+    flex: 1;
+}
+
+.loll>.running-text {
+    margin-bottom: 15px;
+
+}
+.education {
+    background-color: #FFC6C6;
+    border-top-left-radius: 60px;
+    padding: 60px 35px 15px;
+    margin-left: 40px;
+}
+.bar>.name-h3 {
+    border-top: 2px solid #43475F;
+    padding-top: 24px;
+}
+.line {
+    display: flex;
+    flex: 1;
+}
+.bar-text {
+    letter-spacing: 1px;
+    font-weight: 400;
+    width: 88px;
+}
