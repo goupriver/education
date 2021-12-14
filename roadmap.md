@@ -5,3 +5,7 @@
 - [Подготовка вёрстки для cистем управления контентом (CMS)](https://github.com/goupriver/education/blob/main/frontend-cms.md)
 - [Вёрстка React-компонентов](https://github.com/goupriver/education/blob/main/frontend-react.md)
 
+**React разработчик**
+- [JavaScript. Профессиональная разработка веб-интерфейсов](https://github.com/goupriver/education/blob/main/frontend-javascript.md)
+- 
+
