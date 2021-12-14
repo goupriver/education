@@ -7,5 +7,10 @@
 
 **React разработчик**
 - [JavaScript. Профессиональная разработка веб-интерфейсов](https://github.com/goupriver/education/blob/main/frontend-javascript.md)
-- 
+- [JavaScript. Архитектура клиентских приложений](https://github.com/goupriver/education/blob/main/react-1.md)
+- [React. Разработка сложных клиентских приложений](https://github.com/goupriver/education/blob/main/react-2.md)
+
+**Фулстек разработчик**
+- [Node.js](https://github.com/goupriver/education/blob/main/fullstack.md)
+
 
