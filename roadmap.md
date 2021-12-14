@@ -1,4 +1,4 @@
-**Фронтенд разработчик**  
+**Фронтенд разработчик от htmlacademy**  
 - [HTML и CSS. Профессиональная вёрстка сайтов](https://github.com/goupriver/education/blob/main/frontend-1.md)
 - [HTML и CSS. Адаптивная вёрстка и автоматизация](https://github.com/goupriver/education/blob/main/frontend-2.md)  
 - [JavaScript. Профессиональная разработка веб-интерфейсов](https://github.com/goupriver/education/blob/main/frontend-javascript.md)
@@ -12,5 +12,7 @@
 
 **Фулстек разработчик**
 - [Node.js](https://github.com/goupriver/education/blob/main/fullstack.md)
+------------
 
-
+**Фронтенд разработчик от Яндекс**
+- [Фронтенд](https://github.com/goupriver/education/blob/main/web-syllabus.pdf)
