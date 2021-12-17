@@ -12,7 +12,15 @@
 
 **Фулстек разработчик**
 - [Node.js](https://github.com/goupriver/education/blob/main/fullstack.md)
+
 ------------
 
 **Фронтенд разработчик от Яндекс**
 - [Фронтенд](https://github.com/goupriver/education/blob/main/web-syllabus.pdf)
+
+------------------------
+
+**Фронтенд от learn.javascript**
+- [Верстка](https://github.com/goupriver/education/blob/main/js-learn-layout.md)
+- [Javascript Junior](https://github.com/goupriver/education/blob/main/js-learn-junior.md)
+- [Javascript Middle](https://github.com/goupriver/education/blob/main/js-learn-middle.md)
