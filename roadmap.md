@@ -24,3 +24,4 @@
 - [Верстка](https://github.com/goupriver/education/blob/main/js-learn-layout.md)
 - [Javascript Junior](https://github.com/goupriver/education/blob/main/js-learn-junior.md)
 - [Javascript Middle](https://github.com/goupriver/education/blob/main/js-learn-middle.md)
+- [React](https://github.com/goupriver/education/blob/main/learn-react.md)
