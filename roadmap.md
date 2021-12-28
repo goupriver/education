@@ -25,3 +25,10 @@
 - [Javascript Junior](https://github.com/goupriver/education/blob/main/js-learn-junior.md)
 - [Javascript Middle](https://github.com/goupriver/education/blob/main/js-learn-middle.md)
 - [React](https://github.com/goupriver/education/blob/main/learn-react.md)
+
+**Ресурсы**
+- [MDN - Путеводитель по фроннтенду. Универсальный справочник.](https://developer.mozilla.org)
+- [Doka guide - ресурс от яндекса. Объясняют некоторые сложные вещи простым языком.](https://doka.guide)
+- [learn.javascript.ru - Путеводитель по JS](https://learn.javascript.ru)
+- [CodeWars - задачи по JS](https://www.codewars.com)
+- [FreeCodeCamp - интерактивное обучение технологий фронтенда](https://www.freecodecamp.org/learn)
