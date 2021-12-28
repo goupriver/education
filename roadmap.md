@@ -26,6 +26,8 @@
 - [Javascript Middle](https://github.com/goupriver/education/blob/main/js-learn-middle.md)
 - [React](https://github.com/goupriver/education/blob/main/learn-react.md)
 
+-----------
+
 **Ресурсы**
 - [MDN - Путеводитель по фроннтенду. Универсальный справочник.](https://developer.mozilla.org)
 - [Doka guide - ресурс от яндекса. Объясняют некоторые сложные вещи простым языком.](https://doka.guide)
