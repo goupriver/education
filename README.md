@@ -32,7 +32,6 @@
 - [Javascript Junior](https://github.com/goupriver/education/blob/main/js-learn-junior.md)
 - [Javascript Middle](https://github.com/goupriver/education/blob/main/js-learn-middle.md)
 - [React](https://github.com/goupriver/education/blob/main/learn-react.md)
-- [Паттерны проектирования и рефакторинг](https://refactoring.guru/ru/design-patterns)
 -----------
 
 **Ресурсы**
@@ -41,3 +40,4 @@
 - [learn.javascript.ru - Путеводитель по JS](https://learn.javascript.ru)
 - [CodeWars - задачи по JS](https://www.codewars.com)
 - [FreeCodeCamp - интерактивное обучение технологий фронтенда](https://www.freecodecamp.org/learn)
+- [Паттерны проектирования и рефакторинг](https://refactoring.guru/ru/design-patterns)
