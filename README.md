@@ -4,10 +4,6 @@
 - [HTTP подробно. Для фронтенд разработчика это более важное](https://developer.mozilla.org/ru/docs/Web/HTTP)
 - [Client-server](https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B8%D0%B5%D0%BD%D1%82_%E2%80%94_%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80)
 
-**Архитектура проектирования**
-- [Паттерны проектирования и рефакторинг](https://refactoring.guru/ru/design-patterns)
-
-
 **Фронтенд разработчик от htmlacademy**  
 - [HTML и CSS. Профессиональная вёрстка сайтов](https://github.com/goupriver/education/blob/main/frontend-1.md)
 - [HTML и CSS. Адаптивная вёрстка и автоматизация](https://github.com/goupriver/education/blob/main/frontend-2.md)  
@@ -36,7 +32,7 @@
 - [Javascript Junior](https://github.com/goupriver/education/blob/main/js-learn-junior.md)
 - [Javascript Middle](https://github.com/goupriver/education/blob/main/js-learn-middle.md)
 - [React](https://github.com/goupriver/education/blob/main/learn-react.md)
-
+- [Паттерны проектирования и рефакторинг](https://refactoring.guru/ru/design-patterns)
 -----------
 
 **Ресурсы**
