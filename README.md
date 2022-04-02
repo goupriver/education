@@ -35,7 +35,7 @@
 - [CodeWars - задачи по JS](https://www.codewars.com)
 - [FreeCodeCamp - интерактивное обучение технологий фронтенда](https://www.freecodecamp.org/learn)
 - [Паттерны проектирования и рефакторинг](https://refactoring.guru/ru/design-patterns)
-- [Solid принципы](https://ota-solid.vercel.app/)
+- [SOLID принципы](https://ota-solid.vercel.app/)
 - [Roadmap React dev. 2019](https://github.com/adam-golab/react-developer-roadmap/blob/master/README-RU.md)
 - [Обновляемый Roadmap](https://roadmap.sh/)
 
