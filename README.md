@@ -19,8 +19,8 @@
 - [Как комитить и жить счастливо](https://habr.com/ru/company/yandex/blog/431432/)
 - [Семантическое версионирование](https://semver.org/lang/ru/)
 
-**Архитектура**
--[Начало Roadmap](https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/)
+**Архитектура**    
+- [Начало. Roadmap](https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/)
 
 **Fullstack**
 - [Node.js](https://github.com/goupriver/education/blob/main/fullstack.md)
