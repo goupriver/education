@@ -4,12 +4,13 @@
 - [JavaScript. Профессиональная разработка веб-интерфейсов](https://github.com/goupriver/education/blob/main/frontend-javascript.md)
 - [JavaScript. Архитектура клиентских приложений](https://github.com/goupriver/education/blob/main/react-1.md)
 - [React. Разработка сложных клиентских приложений](https://github.com/goupriver/education/blob/main/react-2.md)
+- [Node.js](https://github.com/goupriver/education/blob/main/fullstack.md)
 
 **Computer Science** 
+- [Client-server](https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B8%D0%B5%D0%BD%D1%82_%E2%80%94_%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80)
 - [TCP/IP](https://ru.wikipedia.org/wiki/TCP/IP)
 - [HTTP](https://ru.wikipedia.org/wiki/HTTP)   
 - [HTTP подробно. Для фронтенд разработчика это более важное](https://developer.mozilla.org/ru/docs/Web/HTTP)
-- [Client-server](https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B8%D0%B5%D0%BD%D1%82_%E2%80%94_%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80)
 - [REST API](https://restapitutorial.ru/resources.html)
 
 **Git** 
@@ -21,9 +22,8 @@
 
 **Архитектура**    
 - [Начало. Roadmap](https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/)
-
-**Fullstack**
-- [Node.js](https://github.com/goupriver/education/blob/main/fullstack.md)
+- [Паттерны проектирования и рефакторинг](https://refactoring.guru/ru/design-patterns)
+- [SOLID принципы](https://ota-solid.vercel.app/)
 
 ***Можно ознакомиться с программами онлайн школ.***
 - [Hexlet](https://ru.hexlet.io/)
@@ -37,18 +37,16 @@
 - [learn.javascript.ru - Путеводитель по JS](https://learn.javascript.ru)
 - [CodeWars - задачи по JS](https://www.codewars.com)
 - [FreeCodeCamp - интерактивное обучение технологий фронтенда](https://www.freecodecamp.org/learn)
-- [Паттерны проектирования и рефакторинг](https://refactoring.guru/ru/design-patterns)
-- [SOLID принципы](https://ota-solid.vercel.app/)
 - [Roadmap React dev. 2019](https://github.com/adam-golab/react-developer-roadmap/blob/master/README-RU.md)
 - [Обновляемый Roadmap](https://roadmap.sh/)
 
 **Книги**
-- Серия книг You Don't Know JS _O'Reilly Media_
-- Код. Тайный язык информатики - _Чарльз Петцольд_
-- Грокаем алгоритмы - _Адитья Бхаргава_ 
-- Совершенный Код - _Стив Макконнелл_
 - Читсый код - _Робер Мартин_
 - Чистая архитектура - _Робер Мартин_
 - Head First. Паттерны проектирования - _Э. Фримен_
 - Рефакторинг. Улучшение существующего кода. - _Мартин Фаулер_
+- Совершенный Код - _Стив Макконнелл_
+- Грокаем алгоритмы - _Адитья Бхаргава_ 
+- Серия книг You Don't Know JS _O'Reilly Media_
+- Код. Тайный язык информатики - _Чарльз Петцольд_
 - Карьера Программиста - _Макдауэлл_
