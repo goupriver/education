@@ -18,6 +18,7 @@
 - [Git flow. Модель ветвления](https://habr.com/ru/post/106912/)
 - [Как комитить и жить счастливо](https://habr.com/ru/company/yandex/blog/431432/)
 - [Семантическое версионирование](https://semver.org/lang/ru/)
+- [Читабельные комментарии](https://habr.com/ru/post/416887/)
 
 **Архитектура**    
 - [Начало. Roadmap](https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/)
