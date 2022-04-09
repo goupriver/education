@@ -11,6 +11,7 @@
 - [TCP/IP](https://ru.wikipedia.org/wiki/TCP/IP)
 - [HTTP](https://developer.mozilla.org/ru/docs/Web/HTTP)
 - [REST API](https://restapitutorial.ru/resources.html)
+- [CS Roadmap](https://www.freecodecamp.org/news/data-science-learning-roadmap/)
 
 **Git** 
 - [Git руководство](https://git-scm.com/)
