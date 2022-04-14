@@ -25,6 +25,7 @@
 - [Начало. Roadmap](https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/)
 - [Паттерны проектирования и рефакторинг](https://refactoring.guru/ru/design-patterns)
 - [SOLID принципы](https://ota-solid.vercel.app/)
+- [TypeScript](https://github.com/etroynov/typescript-book/blob/master/SUMMARY.md)
 
 ***Можно ознакомиться с программами онлайн школ.***
 - [Hexlet](https://ru.hexlet.io/)
