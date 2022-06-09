@@ -1,10 +1,7 @@
-**Фронтенд React разработчик**
-- [HTML и CSS. Профессиональная вёрстка сайтов](https://github.com/goupriver/education/blob/main/frontend-1.md)
-- [HTML и CSS. Адаптивная вёрстка и автоматизация](https://github.com/goupriver/education/blob/main/frontend-2.md) 
-- [JavaScript. Профессиональная разработка веб-интерфейсов](https://github.com/goupriver/education/blob/main/frontend-javascript.md)
-- [JavaScript. Архитектура клиентских приложений](https://github.com/goupriver/education/blob/main/react-1.md)
-- [React. Разработка сложных клиентских приложений](https://github.com/goupriver/education/blob/main/react-2.md)
-- [Node.js](https://github.com/goupriver/education/blob/main/fullstack.md)
+***Обязательно к ознакомлению с программами онлайн школ.***
+- [HtmlAcademy](https://htmlacademy.ru/)
+- [Hexlet](https://ru.hexlet.io/)
+- [ЯндексПрактикум](https://practicum.yandex.ru/)
 
 **Computer Science** 
 - [Client-server](https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B8%D0%B5%D0%BD%D1%82_%E2%80%94_%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80)
@@ -27,11 +24,6 @@
 - [Паттерны проектирования и рефакторинг](https://refactoring.guru/ru/design-patterns)
 - [SOLID принципы](https://ota-solid.vercel.app/)
 - [TypeScript](https://github.com/etroynov/typescript-book/blob/master/SUMMARY.md)
-
-***Можно ознакомиться с программами онлайн школ.***
-- [Hexlet](https://ru.hexlet.io/)
-- [HtmlAcademy](https://htmlacademy.ru/)
-- [ЯндексПрактикум](https://practicum.yandex.ru/)
 ------------------------
 
 **Ресурсы**
