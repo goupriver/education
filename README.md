@@ -1,7 +1,7 @@
-***Обязательно к ознакомлению с программами онлайн школ.***
-- [HtmlAcademy](https://htmlacademy.ru/)
+***Ознакомиться с программами онлайн школ.***
+- [Html Academy](https://htmlacademy.ru/)
 - [Hexlet](https://ru.hexlet.io/)
-- [ЯндексПрактикум](https://practicum.yandex.ru/)
+- [Яндекс Практикум](https://practicum.yandex.ru/)
 
 **Computer Science** 
 - [Client-server](https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B8%D0%B5%D0%BD%D1%82_%E2%80%94_%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80)
