@@ -18,6 +18,7 @@
 - [Как комитить и жить счастливо](https://habr.com/ru/company/yandex/blog/431432/)
 - [Семантическое версионирование](https://semver.org/lang/ru/)
 - [Читабельные комментарии](https://habr.com/ru/post/416887/)
+- [Именование коммитов](https://gist.github.com/stephenparish/9941e89d80e2bc58a153)
 
 **Архитектура**    
 - [Начало. Roadmap](https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/)
