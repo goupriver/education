@@ -8,8 +8,6 @@
 - [TCP/IP](https://ru.wikipedia.org/wiki/TCP/IP)
 - [HTTP](https://developer.mozilla.org/ru/docs/Web/HTTP)
 - [REST API](https://restapitutorial.ru/resources.html)
-- [CS Roadmap](https://www.freecodecamp.org/news/data-science-learning-roadmap/)
-- [Digitalocean](https://www.digitalocean.com/)
 
 **Git** 
 - [Git руководство](https://git-scm.com/)
@@ -31,12 +29,12 @@
 - [MDN - Путеводитель по фроннтенду. Универсальный справочник.](https://developer.mozilla.org)
 - [Doka guide - ресурс от яндекса. Объясняют некоторые сложные вещи простым языком.](https://doka.guide)
 - [learn.javascript.ru - Путеводитель по JS](https://learn.javascript.ru)
-- [CodeWars - задачи по JS](https://www.codewars.com)
+- CodeWars, HackerRunk, LeetCode - задачи по алгоритмам
 - [FreeCodeCamp - интерактивное обучение технологий фронтенда](https://www.freecodecamp.org/learn)
-- [Roadmap React dev. 2019](https://github.com/adam-golab/react-developer-roadmap/blob/master/README-RU.md)
 - [Обновляемый Roadmap](https://roadmap.sh/)
 
 **Книги**
+- Структура и интерпретация компьютерных программ - Харольд Абельсон и Джеральд Сассман
 - Читсый код - _Робер Мартин_
 - Чистая архитектура - _Робер Мартин_
 - Head First. Паттерны проектирования - _Э. Фримен_
