@@ -4,10 +4,19 @@
 - [Яндекс Практикум](https://practicum.yandex.ru/)
 
 **Computer Science** 
-- [Client-server](https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B8%D0%B5%D0%BD%D1%82_%E2%80%94_%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80)
-- [TCP/IP](https://ru.wikipedia.org/wiki/TCP/IP)
-- [HTTP](https://developer.mozilla.org/ru/docs/Web/HTTP)
-- [REST API](https://restapitutorial.ru/resources.html)
+- Информатика
+- Программирование (на любом языке)
+- Теория алгоритмов
+- Архитектура ЭВМ
+- Сети
+- Базы данных
+- Операционные системы
+- ООП
+- Анализ и дизайн ПО
+- Трансляторы и компиляторы
+- Управлегние производственным процессом разработки ПО.
+- Коллективная разработка
+- Особенности коммерческой разработки  
 
 **Git** 
 - [Git руководство](https://git-scm.com/)
