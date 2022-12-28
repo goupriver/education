@@ -27,6 +27,15 @@
 - [Читабельные комментарии](https://habr.com/ru/post/416887/)
 - [Именование коммитов](https://gist.github.com/stephenparish/9941e89d80e2bc58a153)
 
+**Разное полезное**
+- [Задачи по js с авто проверкой](https://github.com/mbelsky/js-problems)
+- [Технологии использующиеся в тиньков на фронте](https://radar.tinkoff.ru/javascript/)
+- [Вопросы интервью для фронтенда](https://www.frontendinterviewhandbook.com/ru/introduction/)
+- [Паттерны JS](https://www.patterns.dev/)
+- [Дисциплины математики для разработчиков](https://antonz.ru/math/)
+- [Каким должно быть резюме](https://volkov97.com/resume)
+- [Беспоясов. Интересный фронтендер](https://bespoyasov.ru/ )
+
 **Архитектура**    
 - [Начало. Roadmap](https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/)
 - [Паттерны проектирования и рефакторинг](https://refactoring.guru/ru/design-patterns)
