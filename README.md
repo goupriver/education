@@ -26,6 +26,7 @@
 - [Семантическое версионирование](https://semver.org/lang/ru/)
 - [Читабельные комментарии](https://habr.com/ru/post/416887/)
 - [Именование коммитов](https://gist.github.com/stephenparish/9941e89d80e2bc58a153)
+- [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
 **Разное полезное**
 - [Задачи по js с авто проверкой](https://github.com/mbelsky/js-problems)
